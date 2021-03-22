@@ -1,6 +1,6 @@
 .header {
   font-family: 'Cabin Condensed', sans-serif;
-  font-size: 9em;
+  font-size: 8em;
   text-align: center;
   /* top: .5; */
   /* vertical-align: text-bottom; */
@@ -23,9 +23,9 @@
 
 h2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 2em;
+  font-size: 1.75em;
   color:whitesmoke;
-  font-weight: 900;
+  /* font-weight: 900; */
 }
 
 .sidebar {
@@ -41,9 +41,13 @@ h2 {
 }
 
 a {
-  color: gray;
+  color: rgb(165, 164, 164);
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.25em;
+}
+
+a:hover {
+  color: greenyellow;
 }
 
 body {
