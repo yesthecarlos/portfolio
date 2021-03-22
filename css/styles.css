@@ -1,6 +1,6 @@
 .header {
   font-family: 'Cabin Condensed', sans-serif;
-  font-size: 10em;
+  font-size: 9em;
   text-align: center;
   /* top: .5; */
   /* vertical-align: text-bottom; */
@@ -14,11 +14,18 @@
 .subheader {
   color:darkslategray;
   -webkit-text-fill-color: white;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family:'Open Sans', sans-serif;
   font-size: 2rem;
-  text-align:center;
+  text-align: center;
   text-shadow: .5px .5px .5px;
   text-shadow: 3px 3px 3px rgba(177, 43, 173, 0.529);
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2em;
+  color:whitesmoke;
+  font-weight: 900;
 }
 
 .sidebar {
@@ -29,6 +36,14 @@
   float:left;
   padding: 8px;
   box-sizing: border-box;
+  color: whitesmoke;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: gray;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5em;
 }
 
 body {
