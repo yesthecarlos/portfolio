@@ -14,6 +14,10 @@
 
 _This is the beginning of my portfolio website. Publishing this landing page showcases my grasp of basic concepts in HTML, CSS, Markup, and Git._
 
+## Setup/Installation Requirements
+
+_This is a website deployed on GitHub Pages. Simply visit https:_
+
 ## Known Bugs
 
 * _Site design is not very responsive._
@@ -21,7 +25,7 @@ _This is the beginning of my portfolio website. Publishing this landing page sho
 
 ## License
 
-_Copyright <2021> <Carlos Mendez>
+_Copyright <2021> <Carlos Mendez>_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
