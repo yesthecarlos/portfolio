@@ -2,21 +2,23 @@
   font-family: 'Cabin Condensed', sans-serif;
   font-size: 10em;
   text-align: center;
-  top: .5;
+  /* top: .5; */
   /* vertical-align: text-bottom; */
   color:whitesmoke;
   text-shadow: 3px 3px 3px rgba(177, 43, 173, 0.529);
   /* transform:rotate(-90deg); */
-  min-height:30vh;
+  /* min-height:30vh; */
   box-sizing: border-box;
 }
 
 .subheader {
   color:darkslategray;
+  -webkit-text-fill-color: white;
   font-family:Arial, Helvetica, sans-serif;
   font-size: 2rem;
   text-align:center;
   text-shadow: .5px .5px .5px;
+  text-shadow: 3px 3px 3px rgba(177, 43, 173, 0.529);
 }
 
 .sidebar {
@@ -25,16 +27,19 @@
 
 .project {
   float:left;
+  padding: 8px;
+  box-sizing: border-box;
 }
 
 body {
   /* background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #8989ba 100%); */
   background-image: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
-  background-repeat: no-repeat;
-  background-size: cover;
+  /* background-repeat: no-repeat; */
+  background-size: 300%;
+  /* min-height: 100vh; */
 }
 
-html {
+html{
   height: 100%;
 }
 
