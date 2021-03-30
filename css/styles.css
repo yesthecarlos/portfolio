@@ -2,7 +2,11 @@
   font-family: 'Cabin Condensed', sans-serif;
   font-size: 8rem;
   text-align: center;
+<<<<<<< HEAD
    vertical-align: 50%;
+=======
+  vertical-align: 50%;
+>>>>>>> gh-pages
   color:whitesmoke;
   text-shadow: 3px 3px 3px rgba(177, 43, 173, 0.529);
   box-sizing: border-box;
@@ -42,7 +46,6 @@ h2 {
   }
 
 .aboutMeText {
-  padding: 8px;
   color: whitesmoke;
   font-family: 'Open Sans', sans-serif;
   line-height: 2rem;
@@ -70,7 +73,12 @@ a:hover {
 
 body {
   background-image: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+<<<<<<< HEAD
   background-size: 300%;
+=======
+  background-repeat: no-repeat;
+  background-size: 100% 300%;
+>>>>>>> gh-pages
 }
 
 html{
